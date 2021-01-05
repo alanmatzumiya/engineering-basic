@@ -1,368 +1,279 @@
-module_1:
-  00_Quick_Python_Intro.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/00_Quick_Python_Intro.ipynb
-  01_Step_1.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/01_Step_1.ipynb
-  02_Step_2.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/02_Step_2.ipynb
-  03_CFL_Condition.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/03_CFL_Condition.ipynb
-  04_Step_3.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/04_Step_3.ipynb
-  05_Step_4.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/05_Step_4.ipynb
-  06_Array_Operations_with_NumPy.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/06_Array_Operations_with_NumPy.ipynb
-  07_Step_5.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/07_Step_5.ipynb
-  08_Step_6.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/08_Step_6.ipynb
-  09_Step_7.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/09_Step_7.ipynb
-  10_Step_8.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/10_Step_8.ipynb
-  11_Defining_Function_in_Python.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/11_Defining_Function_in_Python.ipynb
-  12_Step_9.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/12_Step_9.ipynb
-  13_Step_10.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/13_Step_10.ipynb
-  14_Optimizing_Loops_with_Numba.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/14_Optimizing_Loops_with_Numba.ipynb
-  15_Step_11.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/15_Step_11.ipynb
-  16_Step_12.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/16_Step_12.ipynb
-  18_Burgers_equation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/18_Burgers_equation.ipynb
-  19_Odd_Even_Decoupling.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_1/19_Odd_Even_Decoupling.ipynb
-module_2:
-  Additional Examples of the Python Control Systems Library.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Additional
-    Examples of the Python Control Systems Library.ipynb
-  Adiabatic Flame Temperature.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Adiabatic
-    Flame Temperature.ipynb
-  Adipic Acid Flowsheet.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Adipic
-    Acid Flowsheet.ipynb
-  Ajka Alumina Plant Spill.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Ajka
-    Alumina Plant Spill.ipynb
-  Antoine.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Antoine.ipynb
-  Balancing Reactions.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Balancing
-    Reactions.ipynb
-  Binary Distillation with McCabe-Thiele.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Binary
-    Distillation with McCabe-Thiele.ipynb
-  Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb
-  Bubble and Dew Point Calculations for Binary Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Bubble
-    and Dew Point Calculations for Binary Mixtures.ipynb
-  Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Bubble
-    and Dew Point Calculations for Multicomponent Mixtures.ipynb
-  Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb
-  Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb
-  CO2 Production by Automobiles.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/CO2
-    Production by Automobiles.ipynb
-  CSTR.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/CSTR.ipynb
-  Closed-Loop Transfer Functions for Car Cruise Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Closed-Loop
-    Transfer Functions for Car Cruise Control.ipynb
-  Controller Tuning Rules in Frequency Domain.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Controller
-    Tuning Rules in Frequency Domain.ipynb
-  Creating Bode Plots.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Creating
-    Bode Plots.ipynb
-  Dehydrogenation_of_Propane.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Dehydrogenation_of_Propane.ipynb
-  Diesel Engine Emissions Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Diesel
-    Engine Emissions Control.ipynb
-  Energy Balances for a Steam Turbine Flowsheet.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Energy
-    Balances for a Steam Turbine Flowsheet.ipynb
-  Ethylene Oxide Flowsheet.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Ethylene
-    Oxide Flowsheet.ipynb
-  Exothermic CSTR.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Exothermic
-    CSTR.ipynb
-  Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Fitting
-    a Linear Model to the Step Response of a Gravity Drained Tank.ipynb
-  Flameless Cooking.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Flameless
-    Cooking.ipynb
-  Gases_with_One_Condensable_Component.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Gases_with_One_Condensable_Component.ipynb
-  General Mass Balance on a Single Tank.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/General
-    Mass Balance on a Single Tank.ipynb
-  Generation_Consumption_Analysis_for_Ammonia_Production.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Generation_Consumption_Analysis_for_Ammonia_Production.ipynb
-  Getting Started with Transfer Functions.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Getting
-    Started with Transfer Functions.ipynb
-  Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb
-  Global CO2 Budget.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Global
-    CO2 Budget.ipynb
-  Global_CO2_Budget.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Global_CO2_Budget.ipynb
-  Humidity and Psychrometrics.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Humidity
-    and Psychrometrics.ipynb
-  Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb
-  Interacting Tanks.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Interacting
-    Tanks.ipynb
-  Interactive PID Control Tuning with  Ziegler-Nichols.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Interactive
-    PID Control Tuning with  Ziegler-Nichols.ipynb
-  Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb
-  Lean NOx Trap.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Lean
-    NOx Trap.ipynb
-  Operating_Limits_for_a_Methanol_Lighter.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Operating_Limits_for_a_Methanol_Lighter.ipynb
-  PVT_Calculations_for_Non-Ideal_Gases.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/PVT_Calculations_for_Non-Ideal_Gases.ipynb
-  Pyrotechnic Design for Airbags.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Pyrotechnic
-    Design for Airbags.ipynb
-  Raoult's Law.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Raoult's
-    Law.ipynb
-  Raoult's_Law_for_Ideal_Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Raoult's_Law_for_Ideal_Mixtures.ipynb
-  Second_Order_Models.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Second_Order_Models.ipynb
-  Separating_Milk.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Separating_Milk.ipynb
-  Solving_Linear_Equations_with_Sympy.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Solving_Linear_Equations_with_Sympy.ipynb
-  Steam Reforming of Methane.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Steam
-    Reforming of Methane.ipynb
-  Torpedo Propulsion.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Torpedo
-    Propulsion.ipynb
-  Txy and xy Diagrams for Binary Mixtures.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Txy
-    and xy Diagrams for Binary Mixtures.ipynb
-  Units and Conversions - Home Heating Example.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Units
-    and Conversions - Home Heating Example.ipynb
-  Units_and_Conversions_for_Home_Heating.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Units_and_Conversions_for_Home_Heating.ipynb
-  Units_and_Engineering_Calculations.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Units_and_Engineering_Calculations.ipynb
-  Unsteady-State Material Balances.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Unsteady-State
-    Material Balances.ipynb
-  Vapor-Liquid Equilibrium for a Pure Component.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Vapor-Liquid
-    Equilibrium for a Pure Component.ipynb
-  Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb
-  West Virginia Chemical Spill.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_2/West
-    Virginia Chemical Spill.ipynb
-module_3:
-  0_TCLab_Overview_add_example.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/0_TCLab_Overview_add_example.ipynb
-  1_Empirical_Methods_for_Feedback_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/1_Empirical_Methods_for_Feedback_Control.ipynb
-  2_Coding_Controllers_with_Python_Generators.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/2_Coding_Controllers_with_Python_Generators.ipynb
-  3_Modeling_Part_1.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/3_Modeling_Part_1.ipynb
-  3_Modeling_Part_2.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/3_Modeling_Part_2.ipynb
-  3_Modeling_Part_3.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/3_Modeling_Part_3.ipynb
-  3_Modeling_Part_4.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/3_Modeling_Part_4.ipynb
-  4_PID_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/4_PID_Control.ipynb
-  A Modular Approach to Simulation using Python Generators.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/A
-    Modular Approach to Simulation using Python Generators.ipynb
-  Animation in Jupyter Notebooks.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Animation
-    in Jupyter Notebooks.ipynb
-  Baroreflex as a Linear Control System.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Baroreflex
-    as a Linear Control System.ipynb
-  Blending Tank Simulation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Blending
-    Tank Simulation.ipynb
-  Cascade Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Cascade
-    Control.ipynb
-  Closed-Loop Transfer Functions for Car Cruise Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Closed-Loop
-    Transfer Functions for Car Cruise Control.ipynb
-  Continuous_Product_Blending.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Continuous_Product_Blending.ipynb
-  Control with Realtime Simpy.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Control
-    with Realtime Simpy.ipynb
-  Controller Tuning Rules in Frequency Domain.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Controller
-    Tuning Rules in Frequency Domain.ipynb
-  Creating Bode Plots.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Creating
-    Bode Plots.ipynb
-  Exam 2-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/docs/exams/.ipynb_checkpoints/Exam
-    2-checkpoint.ipynb
-  Exam 2.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/docs/exams/Exam
-    2.ipynb
-  Exothermic CSTR.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Exothermic
-    CSTR.ipynb
-  Exothermic_CSTR_Pyomo.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Exothermic_CSTR_Pyomo.ipynb
-  Experiments.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Experiments.ipynb
-  Fed Batch Bioreactor.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Fed
-    Batch Bioreactor.ipynb
-  First_Order_System_in_Pyomo.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/First_Order_System_in_Pyomo.ipynb
-  Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Fitting
-    First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb
-  Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Fitting
-    a Linear Model to the Step Response of a Gravity Drained Tank.ipynb
-  GUI Experiments.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/GUI
-    Experiments.ipynb
-  Getting Started with Python Control Systems Library-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/.ipynb_checkpoints/Getting
-    Started with Python Control Systems Library-checkpoint.ipynb
-  Getting Started with Python.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Getting
-    Started with Python.ipynb
-  Getting Started with Transfer Functions.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Getting
-    Started with Transfer Functions.ipynb
-  Getting_Started_with_the_Temperature_Control_Laboratory.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Getting_Started_with_the_Temperature_Control_Laboratory.ipynb
-  Gravity Drained Tank.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Gravity
-    Drained Tank.ipynb
-  Implementing PID Control in Nonlinear Simulations.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Implementing
-    PID Control in Nonlinear Simulations.ipynb
-  Interacting Tanks.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Interacting
-    Tanks.ipynb
-  Interactive PID Control Tuning with  Ziegler-Nichols.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Interactive
-    PID Control Tuning with  Ziegler-Nichols.ipynb
-  Introduction to Python - A Python Tutorial.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Introduction
-    to Python - A Python Tutorial.ipynb
-  Lab Assignment 2.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Lab
-    Assignment 2.ipynb
-  Lab Assignment 3 - Empirical Model Fitting.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Lab
-    Assignment 3 - Empirical Model Fitting.ipynb
-  Lab Assignment 4 - PID Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Lab
-    Assignment 4 - PID Control.ipynb
-  Linear Approximation of a Multivariable Model using Taylor Series.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Linear
-    Approximation of a Multivariable Model using Taylor Series.ipynb
-  Linear Approximation of a Process Model using Taylor Series.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Linear
-    Approximation of a Process Model using Taylor Series.ipynb
-  MPC Introduction.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/MPC
-    Introduction.ipynb
-  Machine Bottleneck (Pyomo).ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Machine
-    Bottleneck (Pyomo).ipynb
-  Manometer Models and Dynamics.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Manometer
-    Models and Dynamics.ipynb
-  NCAA_Football_Field.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/NCAA_Football_Field.ipynb
-  One Compartment Pharmacokinetics.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/One
-    Compartment Pharmacokinetics.ipynb
-  PID_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/PID_Control.ipynb
-  Path_Planning_for_a_Simple_Car.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Path_Planning_for_a_Simple_Car.ipynb
-  ProcessControl.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/ProcessControl.ipynb
-  Process_Control_Outline.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Process_Control_Outline.ipynb
-  Programming Controllers.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Programming
-    Controllers.ipynb
-  Python_Tutorial_1_2018.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Python_Tutorial_1_2018.ipynb
-  Python_Tutorial_2_2018.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Python_Tutorial_2_2018.ipynb
-  Python_Tutorial_3_2018.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Python_Tutorial_3_2018.ipynb
-  Realtime Plotting.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Realtime
-    Plotting.ipynb
-  Relay_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Relay_Control.ipynb
-  Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb
-  Second_Order_Models.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Second_Order_Models.ipynb
-  State-Task_Networks.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/State-Task_Networks.ipynb
-  Step_Test_Experiment.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Step_Test_Experiment.ipynb
-  Step_Test_Model.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Step_Test_Model.ipynb
-  TCLab PID.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/TCLab
-    PID.ipynb
-  TCLab Simulation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/TCLab
-    Simulation.ipynb
-  Transient Heat Transfer in Various Geometries.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Transient
-    Heat Transfer in Various Geometries.ipynb
-  Untitled.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Untitled.ipynb
-  Untitled1-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/.ipynb_checkpoints/Untitled1-checkpoint.ipynb
-  Untitled2-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/.ipynb_checkpoints/Untitled2-checkpoint.ipynb
-  Untitled3-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/.ipynb_checkpoints/Untitled3-checkpoint.ipynb
-  Zero Order Hold and Interpolation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/Zero
-    Order Hold and Interpolation.ipynb
-  example_1.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/example_1.ipynb
-  example_2.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/example_2.ipynb
-  example_3.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_3/example_3.ipynb
-module_4:
-  Additional Examples of the Python Control Systems Library.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Additional
-    Examples of the Python Control Systems Library.ipynb
-  Audio Processing.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Audio
-    Processing.ipynb
-  Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Autoregulation
-    and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb
-  Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Chocolate
-    Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb
-  Closed Loop Anesthetic Delivery (CLAD) System.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Closed
-    Loop Anesthetic Delivery (CLAD) System.ipynb
-  Control of a Reverse Osmosis Desalination Process.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Control
-    of a Reverse Osmosis Desalination Process.ipynb
-  Dynamic Visualizations with Matplotlib.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Dynamic
-    Visualizations with Matplotlib.ipynb
-  Dynamics of First Order Linear Systems.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Dynamics
-    of First Order Linear Systems.ipynb
-  Experiments with Audio Processing.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Experiments
-    with Audio Processing.ipynb
-  Formatting Mathematics for Jupyter.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Formatting
-    Mathematics for Jupyter.ipynb
-  Getting Started with Beer.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Getting
-    Started with Beer.ipynb
-  Getting Started with Chocolate Blending.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Getting
-    Started with Chocolate Blending.ipynb
-  Getting Started with Chocolate.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Getting
-    Started with Chocolate.ipynb
-  Getting Started with Engineering Calculations.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Getting
-    Started with Engineering Calculations.ipynb
-  Getting Started with Python Control Systems Library.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Getting
-    Started with Python Control Systems Library.ipynb
-  Getting Started with Spanky's.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Getting
-    Started with Spanky's.ipynb
-  Hare and Lynx Population Dynamics.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Hare
-    and Lynx Population Dynamics.ipynb
-  Insulin Control for Treating Type I Diabetes.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Insulin
-    Control for Treating Type I Diabetes.ipynb
-  Interacting Tanks-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Solution
-    to Homework Problems/.ipynb_checkpoints/Interacting Tanks-checkpoint.ipynb
-  Jacobians.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Jacobians.ipynb
-  Lorenz Equations.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Lorenz
-    Equations.ipynb
-  MPC%2C+PID%2C+Two+Tank+42.0.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/MPC%2C+PID%2C+Two+Tank+42.0.ipynb
-  MPC, PID, Two Tank 42.0.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/MPC,
-    PID, Two Tank 42.0.ipynb
-  Mixed Paradigm Simulation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Mixed
-    Paradigm Simulation.ipynb
-  Municipal Wastewater Aeration.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Municipal
-    Wastewater Aeration.ipynb
-  Plotly Example.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Plotly
-    Example.ipynb
-  Sailboat Mast Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Sailboat
-    Mast Control.ipynb
-  Solution to Homework Problems-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Solution
-    to Homework Problems/.ipynb_checkpoints/Solution to Homework Problems-checkpoint.ipynb
-  Solution to Homework Problems.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Solution
-    to Homework Problems/Solution to Homework Problems.ipynb
-  Solving Linear Equations.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Solving
-    Linear Equations.ipynb
-  T cell therapy of Chronic Myelogenous Leukemia.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/T
-    cell therapy of Chronic Myelogenous Leukemia.ipynb
-  Temperature Profile Optimization of the Brewing Process.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Temperature
-    Profile Optimization of the Brewing Process.ipynb
-  Untitled.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Untitled.ipynb
-  Widgets Example 2.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Widgets
-    Example 2.ipynb
-  Widgets Example.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Widgets
-    Example.ipynb
-  Wind Turbine Collective Blade Pitch Angle Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_4/Wind
-    Turbine Collective Blade Pitch Angle Control.ipynb
-module_5:
-  00_Getting_Started_with_CVXPY-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/00_Getting_Started_with_CVXPY-checkpoint.ipynb
-  01_Unconstrained_Scalar_Optimization-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/01_Unconstrained_Scalar_Optimization-checkpoint.ipynb
-  01_Unconstrained_Scalar_Optimization.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/01_Unconstrained_Scalar_Optimization.ipynb
-  02_Linear_Production_Model_with_Constraints-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/02_Linear_Production_Model_with_Constraints-checkpoint.ipynb
-  02_Linear_Production_Model_with_Constraints.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/02_Linear_Production_Model_with_Constraints.ipynb
-  03_Linear_Programming-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/03_Linear_Programming-checkpoint.ipynb
-  03_Linear_Programming.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/03_Linear_Programming.ipynb
-  04_Getting_Started_with_Pyomo-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/04_Getting_Started_with_Pyomo-checkpoint.ipynb
-  04_Getting_Started_with_Pyomo.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/04_Getting_Started_with_Pyomo.ipynb
-  05_Pyomo_Examples-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/05_Pyomo_Examples-checkpoint.ipynb
-  05_Pyomo_Examples.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/05_Pyomo_Examples.ipynb
-  06_Linear_Blending_Problem-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/06_Linear_Blending_Problem-checkpoint.ipynb
-  06_Linear_Blending_Problem.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/06_Linear_Blending_Problem.ipynb
-  07_Mixture_Design_Cold_Weather_Fuel-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/07_Mixture_Design_Cold_Weather_Fuel-checkpoint.ipynb
-  07_Mixture_Design_Cold_Weather_Fuel.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/07_Mixture_Design_Cold_Weather_Fuel.ipynb
-  08_Gasoline_Blending-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/08_Gasoline_Blending-checkpoint.ipynb
-  08_Gasoline_Blending.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/08_Gasoline_Blending.ipynb
-  DAE-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/DAE-checkpoint.ipynb
-  DAE.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/DAE.ipynb
-  Formaldehyde_Process-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Formaldehyde_Process-checkpoint.ipynb
-  Formaldehyde_Process.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Formaldehyde_Process.ipynb
-  Problem_19_01-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Problem_19_01-checkpoint.ipynb
-  Problem_19_01.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Problem_19_01.ipynb
-  Problem_19_03-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Problem_19_03-checkpoint.ipynb
-  Problem_19_03.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Problem_19_03.ipynb
-  Problem_19_04-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Problem_19_04-checkpoint.ipynb
-  Problem_19_04.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Problem_19_04.ipynb
-  Problem_19_05-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Problem_19_05-checkpoint.ipynb
-  Problem_19_05.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Problem_19_05.ipynb
-  Problem_19_06-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Problem_19_06-checkpoint.ipynb
-  Problem_19_06.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Problem_19_06.ipynb
-  Untitled-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-  Untitled.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Untitled.ipynb
-  Untitled1-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/.ipynb_checkpoints/Untitled1-checkpoint.ipynb
-  Untitled1.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_5/Untitled1.ipynb
-module_6:
-  01_PID_Control-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/01_PID_Control-checkpoint.ipynb
-  01_PID_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/01_PID_Control.ipynb
-  02_Implementing_PID_Control_with_Python_Yield_Statement-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/02_Implementing_PID_Control_with_Python_Yield_Statement-checkpoint.ipynb
-  02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb
-  03_PID_Control_with_Setpoint_Weighting-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/03_PID_Control_with_Setpoint_Weighting-checkpoint.ipynb
-  03_PID_Control_with_Setpoint_Weighting.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/03_PID_Control_with_Setpoint_Weighting.ipynb
-  04_PID_Control_with_Bumpless_Transfer-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/04_PID_Control_with_Bumpless_Transfer-checkpoint.ipynb
-  04_PID_Control_with_Bumpless_Transfer.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/04_PID_Control_with_Bumpless_Transfer.ipynb
-  05_PID_Control_with_Anti-Reset-Windup-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/05_PID_Control_with_Anti-Reset-Windup-checkpoint.ipynb
-  05_PID_Control_with_Anti-Reset-Windup.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/05_PID_Control_with_Anti-Reset-Windup.ipynb
-  06_Realizable_PID_Control-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/06_Realizable_PID_Control-checkpoint.ipynb
-  06_Realizable_PID_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/06_Realizable_PID_Control.ipynb
-  07_PID_Controller_Tuning-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/07_PID_Controller_Tuning-checkpoint.ipynb
-  07_PID_Controller_Tuning.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/07_PID_Controller_Tuning.ipynb
-  10_PID_Control-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/10_PID_Control-checkpoint.ipynb
-  10_PID_Control.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/10_PID_Control.ipynb
-  4_PID_Control-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/4_PID_Control-checkpoint.ipynb
-  A Modular Approach to Simulation using Python Generators.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/A
-    Modular Approach to Simulation using Python Generators.ipynb
-  Implementing PID Control in Nonlinear Simulations-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/Implementing
-    PID Control in Nonlinear Simulations-checkpoint.ipynb
-  TCLab PID-checkpoint.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_6/.ipynb_checkpoints/TCLab
-    PID-checkpoint.ipynb
-module_7:
-  01_TCLab_Overview.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/01_TCLab_Overview.ipynb
-  02_Accessing_the_Temperature_Control_Laboratory.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/02_Accessing_the_Temperature_Control_Laboratory.ipynb
-  03_Synchronizing_with_Real_Time.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/03_Synchronizing_with_Real_Time.ipynb
-  04_Emulation_of_TCLab_for_Offline_Use.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/04_Emulation_of_TCLab_for_Offline_Use.ipynb
-  05_TCLab_Historian.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/05_TCLab_Historian.ipynb
-  06_TCLab_Plotter.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/06_TCLab_Plotter.ipynb
-  07_NotebookUI.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/07_NotebookUI.ipynb
-  08_Experiment_Class.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/08_Experiment_Class.ipynb
-  09_Labtime_Class.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/09_Labtime_Class.ipynb
-  10_Interactive_and_Nonblocking_Operation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/10_Interactive_and_Nonblocking_Operation.ipynb
-  Development Notes.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/Development
-    Notes.ipynb
-  PyMata Implementation.ipynb: ./notebooks/engineering-basic/nbs/engineering_module/module_7/PyMata
-    Implementation.ipynb
+engineering-basic:
+  module_0:
+  - 005-NumPy-SeccionesArrays.ipynb
+  - 014-SciPy-EcuacionesNoLineales.ipynb
+  - 003-NumPy-CaracteristicasArrays.ipynb
+  - 002-PythonBasico-Sintaxis.ipynb
+  - 016-SymPy-Intro.ipynb
+  - 004-NumPy-Importacion.ipynb
+  - 007-NumPy-EntradaSalida.ipynb
+  - 013-SciPy-InterpolacionAjuste.ipynb
+  - 000-Bienvenido.ipynb
+  - 001-PythonBasico-JupyterNotebook.ipynb
+  - 011-SciPy-CalculoIntegrales.ipynb
+  - 012-Scipy-Estadistica.ipynb
+  - 002-NumPy-Intro.ipynb
+  - 003-PythonBasico-Funciones.ipynb
+  - 006-NumPy-AlgerbraLineal.ipynb
+  - 008-matplotlib-Intro.ipynb
+  - 015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb
+  - 010-SciPy-FuncionesEspeciales.ipynb
+  - 009-matplotlib-widgets.ipynb
+  - "001-math-Matem\xE1ticas_B\xE1sicas.ipynb"
+  module_1:
+  - 08_Step_6.ipynb
+  - 18_Burgers_equation.ipynb
+  - 02_Step_2.ipynb
+  - 06_Array_Operations_with_NumPy.ipynb
+  - 14_Optimizing_Loops_with_Numba.ipynb
+  - 05_Step_4.ipynb
+  - 00_Quick_Python_Intro.ipynb
+  - 10_Step_8.ipynb
+  - 16_Step_12.ipynb
+  - 11_Defining_Function_in_Python.ipynb
+  - 13_Step_10.ipynb
+  - 03_CFL_Condition.ipynb
+  - 09_Step_7.ipynb
+  - 01_Step_1.ipynb
+  - 07_Step_5.ipynb
+  - 19_Odd_Even_Decoupling.ipynb
+  - 04_Step_3.ipynb
+  - 12_Step_9.ipynb
+  - 15_Step_11.ipynb
+  module_2:
+  - Closed-Loop Transfer Functions for Car Cruise Control.ipynb
+  - Binary Distillation with McCabe-Thiele.ipynb
+  - Energy Balances for a Steam Turbine Flowsheet.ipynb
+  - Pyrotechnic Design for Airbags.ipynb
+  - Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb
+  - Separating_Milk.ipynb
+  - Dehydrogenation_of_Propane.ipynb
+  - Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb
+  - Creating Bode Plots.ipynb
+  - Global_CO2_Budget.ipynb
+  - Additional Examples of the Python Control Systems Library.ipynb
+  - General Mass Balance on a Single Tank.ipynb
+  - Adipic Acid Flowsheet.ipynb
+  - CSTR.ipynb
+  - Second_Order_Models.ipynb
+  - Torpedo Propulsion.ipynb
+  - Lean NOx Trap.ipynb
+  - CO2 Production by Automobiles.ipynb
+  - Raoult's Law.ipynb
+  - Units_and_Conversions_for_Home_Heating.ipynb
+  - Operating_Limits_for_a_Methanol_Lighter.ipynb
+  - Global CO2 Budget.ipynb
+  - Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb
+  - Raoult's_Law_for_Ideal_Mixtures.ipynb
+  - Humidity and Psychrometrics.ipynb
+  - Vapor-Liquid Equilibrium for a Pure Component.ipynb
+  - Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb
+  - Controller Tuning Rules in Frequency Domain.ipynb
+  - PVT_Calculations_for_Non-Ideal_Gases.ipynb
+  - Flameless Cooking.ipynb
+  - Units and Conversions - Home Heating Example.ipynb
+  - Exothermic CSTR.ipynb
+  - Steam Reforming of Methane.ipynb
+  - Generation_Consumption_Analysis_for_Ammonia_Production.ipynb
+  - Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb
+  - Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb
+  - Adiabatic Flame Temperature.ipynb
+  - West Virginia Chemical Spill.ipynb
+  - Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb
+  - Getting Started with Transfer Functions.ipynb
+  - Balancing Reactions.ipynb
+  - Antoine.ipynb
+  - Unsteady-State Material Balances.ipynb
+  - Ethylene Oxide Flowsheet.ipynb
+  - Bubble and Dew Point Calculations for Binary Mixtures.ipynb
+  - Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb
+  - Solving_Linear_Equations_with_Sympy.ipynb
+  - Txy and xy Diagrams for Binary Mixtures.ipynb
+  - Interacting Tanks.ipynb
+  - Diesel Engine Emissions Control.ipynb
+  - Gases_with_One_Condensable_Component.ipynb
+  - Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb
+  - Interactive PID Control Tuning with  Ziegler-Nichols.ipynb
+  - Units_and_Engineering_Calculations.ipynb
+  - Ajka Alumina Plant Spill.ipynb
+  module_3:
+  - Untitled3-checkpoint.ipynb
+  - Getting Started with Python Control Systems Library-checkpoint.ipynb
+  - Untitled2-checkpoint.ipynb
+  - Untitled1-checkpoint.ipynb
+  - Exam 2-checkpoint.ipynb
+  - Exam 2.ipynb
+  - Lab Assignment 4 - PID Control.ipynb
+  - Closed-Loop Transfer Functions for Car Cruise Control.ipynb
+  - Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb
+  - 4_PID_Control.ipynb
+  - Transient Heat Transfer in Various Geometries.ipynb
+  - Exothermic_CSTR_Pyomo.ipynb
+  - One Compartment Pharmacokinetics.ipynb
+  - Animation in Jupyter Notebooks.ipynb
+  - Creating Bode Plots.ipynb
+  - Continuous_Product_Blending.ipynb
+  - MPC Introduction.ipynb
+  - Lab Assignment 2.ipynb
+  - Fed Batch Bioreactor.ipynb
+  - Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb
+  - 2_Coding_Controllers_with_Python_Generators.ipynb
+  - 0_TCLab_Overview_add_example.ipynb
+  - State-Task_Networks.ipynb
+  - Second_Order_Models.ipynb
+  - Getting_Started_with_the_Temperature_Control_Laboratory.ipynb
+  - Getting Started with Python.ipynb
+  - Gravity Drained Tank.ipynb
+  - Lab Assignment 3 - Empirical Model Fitting.ipynb
+  - Introduction to Python - A Python Tutorial.ipynb
+  - GUI Experiments.ipynb
+  - Relay_Control.ipynb
+  - Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb
+  - 1_Empirical_Methods_for_Feedback_Control.ipynb
+  - Cascade Control.ipynb
+  - Programming Controllers.ipynb
+  - Path_Planning_for_a_Simple_Car.ipynb
+  - Linear Approximation of a Multivariable Model using Taylor Series.ipynb
+  - Controller Tuning Rules in Frequency Domain.ipynb
+  - TCLab Simulation.ipynb
+  - Machine Bottleneck (Pyomo).ipynb
+  - 3_Modeling_Part_4.ipynb
+  - TCLab PID.ipynb
+  - Step_Test_Experiment.ipynb
+  - Exothermic CSTR.ipynb
+  - Step_Test_Model.ipynb
+  - example_2.ipynb
+  - Python_Tutorial_2_2018.ipynb
+  - PID_Control.ipynb
+  - 3_Modeling_Part_3.ipynb
+  - Blending Tank Simulation.ipynb
+  - Realtime Plotting.ipynb
+  - example_3.ipynb
+  - Control with Realtime Simpy.ipynb
+  - Baroreflex as a Linear Control System.ipynb
+  - Getting Started with Transfer Functions.ipynb
+  - A Modular Approach to Simulation using Python Generators.ipynb
+  - ProcessControl.ipynb
+  - First_Order_System_in_Pyomo.ipynb
+  - NCAA_Football_Field.ipynb
+  - 3_Modeling_Part_1.ipynb
+  - Zero Order Hold and Interpolation.ipynb
+  - example_1.ipynb
+  - Interacting Tanks.ipynb
+  - Untitled.ipynb
+  - Implementing PID Control in Nonlinear Simulations.ipynb
+  - 3_Modeling_Part_2.ipynb
+  - Python_Tutorial_3_2018.ipynb
+  - Python_Tutorial_1_2018.ipynb
+  - Experiments.ipynb
+  - Interactive PID Control Tuning with  Ziegler-Nichols.ipynb
+  - Process_Control_Outline.ipynb
+  - Manometer Models and Dynamics.ipynb
+  - Linear Approximation of a Process Model using Taylor Series.ipynb
+  module_4:
+  - Interacting Tanks-checkpoint.ipynb
+  - Solution to Homework Problems-checkpoint.ipynb
+  - Solution to Homework Problems.ipynb
+  - Widgets Example.ipynb
+  - Getting Started with Beer.ipynb
+  - Jacobians.ipynb
+  - Experiments with Audio Processing.ipynb
+  - Additional Examples of the Python Control Systems Library.ipynb
+  - Lorenz Equations.ipynb
+  - Widgets Example 2.ipynb
+  - Getting Started with Python Control Systems Library.ipynb
+  - T cell therapy of Chronic Myelogenous Leukemia.ipynb
+  - Control of a Reverse Osmosis Desalination Process.ipynb
+  - MPC%2C+PID%2C+Two+Tank+42.0.ipynb
+  - Sailboat Mast Control.ipynb
+  - Audio Processing.ipynb
+  - Closed Loop Anesthetic Delivery (CLAD) System.ipynb
+  - Hare and Lynx Population Dynamics.ipynb
+  - Temperature Profile Optimization of the Brewing Process.ipynb
+  - Dynamic Visualizations with Matplotlib.ipynb
+  - Getting Started with Chocolate Blending.ipynb
+  - Solving Linear Equations.ipynb
+  - Municipal Wastewater Aeration.ipynb
+  - Getting Started with Chocolate.ipynb
+  - Mixed Paradigm Simulation.ipynb
+  - Getting Started with Engineering Calculations.ipynb
+  - Getting Started with Spanky's.ipynb
+  - MPC, PID, Two Tank 42.0.ipynb
+  - Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb
+  - Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb
+  - Insulin Control for Treating Type I Diabetes.ipynb
+  - Untitled.ipynb
+  - Formatting Mathematics for Jupyter.ipynb
+  - Plotly Example.ipynb
+  - Wind Turbine Collective Blade Pitch Angle Control.ipynb
+  - Dynamics of First Order Linear Systems.ipynb
+  module_5:
+  - Problem_19_04-checkpoint.ipynb
+  - Formaldehyde_Process-checkpoint.ipynb
+  - 02_Linear_Production_Model_with_Constraints-checkpoint.ipynb
+  - Problem_19_03-checkpoint.ipynb
+  - 05_Pyomo_Examples-checkpoint.ipynb
+  - 00_Getting_Started_with_CVXPY-checkpoint.ipynb
+  - Problem_19_01-checkpoint.ipynb
+  - 07_Mixture_Design_Cold_Weather_Fuel-checkpoint.ipynb
+  - 03_Linear_Programming-checkpoint.ipynb
+  - DAE-checkpoint.ipynb
+  - Untitled-checkpoint.ipynb
+  - 04_Getting_Started_with_Pyomo-checkpoint.ipynb
+  - Problem_19_06-checkpoint.ipynb
+  - 01_Unconstrained_Scalar_Optimization-checkpoint.ipynb
+  - Untitled1-checkpoint.ipynb
+  - 08_Gasoline_Blending-checkpoint.ipynb
+  - Problem_19_05-checkpoint.ipynb
+  - 06_Linear_Blending_Problem-checkpoint.ipynb
+  - Formaldehyde_Process.ipynb
+  - Problem_19_03.ipynb
+  - Problem_19_05.ipynb
+  - Problem_19_01.ipynb
+  - 04_Getting_Started_with_Pyomo.ipynb
+  - Problem_19_06.ipynb
+  - DAE.ipynb
+  - 01_Unconstrained_Scalar_Optimization.ipynb
+  - 07_Mixture_Design_Cold_Weather_Fuel.ipynb
+  - 02_Linear_Production_Model_with_Constraints.ipynb
+  - 06_Linear_Blending_Problem.ipynb
+  - Problem_19_04.ipynb
+  - 03_Linear_Programming.ipynb
+  - 05_Pyomo_Examples.ipynb
+  - 08_Gasoline_Blending.ipynb
+  - Untitled.ipynb
+  - Untitled1.ipynb
+  module_6:
+  - 10_PID_Control-checkpoint.ipynb
+  - Implementing PID Control in Nonlinear Simulations-checkpoint.ipynb
+  - 07_PID_Controller_Tuning-checkpoint.ipynb
+  - 4_PID_Control-checkpoint.ipynb
+  - 03_PID_Control_with_Setpoint_Weighting-checkpoint.ipynb
+  - 06_Realizable_PID_Control-checkpoint.ipynb
+  - 01_PID_Control-checkpoint.ipynb
+  - 04_PID_Control_with_Bumpless_Transfer-checkpoint.ipynb
+  - 02_Implementing_PID_Control_with_Python_Yield_Statement-checkpoint.ipynb
+  - TCLab PID-checkpoint.ipynb
+  - 05_PID_Control_with_Anti-Reset-Windup-checkpoint.ipynb
+  - 05_PID_Control_with_Anti-Reset-Windup.ipynb
+  - 06_Realizable_PID_Control.ipynb
+  - 04_PID_Control_with_Bumpless_Transfer.ipynb
+  - 10_PID_Control.ipynb
+  - 02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb
+  - A Modular Approach to Simulation using Python Generators.ipynb
+  - 01_PID_Control.ipynb
+  - 03_PID_Control_with_Setpoint_Weighting.ipynb
+  - 07_PID_Controller_Tuning.ipynb
+  module_7:
+  - Development Notes.ipynb
+  - 10_Interactive_and_Nonblocking_Operation.ipynb
+  - 04_Emulation_of_TCLab_for_Offline_Use.ipynb
+  - PyMata Implementation.ipynb
+  - 05_TCLab_Historian.ipynb
+  - 08_Experiment_Class.ipynb
+  - 01_TCLab_Overview.ipynb
+  - 06_TCLab_Plotter.ipynb
+  - 03_Synchronizing_with_Real_Time.ipynb
+  - 09_Labtime_Class.ipynb
+  - 07_NotebookUI.ipynb
+  - 02_Accessing_the_Temperature_Control_Laboratory.ipynb
