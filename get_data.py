@@ -14,6 +14,7 @@ data = {}
 
 for module in modules:
     notebooks = os.listdir(module)
+    notebooks.sort()
     data[module] = []
     for notebook in notebooks:
         if notebook.endswith(".ipynb"):
