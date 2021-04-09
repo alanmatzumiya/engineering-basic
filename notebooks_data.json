@@ -1,0 +1,1178 @@
+{
+    "module_0": [
+        {
+            "name": "012-Scipy-Estadistica.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/012-Scipy-Estadistica.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/012-Scipy-Estadistica.ipynb"
+        },
+        {
+            "name": "002-NumPy-Intro.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/002-NumPy-Intro.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/002-NumPy-Intro.ipynb"
+        },
+        {
+            "name": "001-math-Matem\u00e1ticas_B\u00e1sicas.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/001-math-Matem%C3%A1ticas_B%C3%A1sicas.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/001-math-Matem%C3%A1ticas_B%C3%A1sicas.ipynb"
+        },
+        {
+            "name": "009-matplotlib-widgets.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/009-matplotlib-widgets.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/009-matplotlib-widgets.ipynb"
+        },
+        {
+            "name": "013-SciPy-InterpolacionAjuste.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/013-SciPy-InterpolacionAjuste.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/013-SciPy-InterpolacionAjuste.ipynb"
+        },
+        {
+            "name": "003-PythonBasico-Funciones.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/003-PythonBasico-Funciones.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/003-PythonBasico-Funciones.ipynb"
+        },
+        {
+            "name": "005-NumPy-SeccionesArrays.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/005-NumPy-SeccionesArrays.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/005-NumPy-SeccionesArrays.ipynb"
+        },
+        {
+            "name": "006-NumPy-AlgerbraLineal.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/006-NumPy-AlgerbraLineal.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/006-NumPy-AlgerbraLineal.ipynb"
+        },
+        {
+            "name": "014-SciPy-EcuacionesNoLineales.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/014-SciPy-EcuacionesNoLineales.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/014-SciPy-EcuacionesNoLineales.ipynb"
+        },
+        {
+            "name": "002-PythonBasico-Sintaxis.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/002-PythonBasico-Sintaxis.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/002-PythonBasico-Sintaxis.ipynb"
+        },
+        {
+            "name": "010-SciPy-FuncionesEspeciales.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/010-SciPy-FuncionesEspeciales.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/010-SciPy-FuncionesEspeciales.ipynb"
+        },
+        {
+            "name": "008-matplotlib-Intro.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/008-matplotlib-Intro.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/008-matplotlib-Intro.ipynb"
+        },
+        {
+            "name": "004-NumPy-Importacion.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/004-NumPy-Importacion.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/004-NumPy-Importacion.ipynb"
+        },
+        {
+            "name": "003-NumPy-CaracteristicasArrays.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/003-NumPy-CaracteristicasArrays.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/003-NumPy-CaracteristicasArrays.ipynb"
+        },
+        {
+            "name": "007-NumPy-EntradaSalida.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/007-NumPy-EntradaSalida.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/007-NumPy-EntradaSalida.ipynb"
+        },
+        {
+            "name": "016-SymPy-Intro.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/016-SymPy-Intro.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/016-SymPy-Intro.ipynb"
+        },
+        {
+            "name": "011-SciPy-CalculoIntegrales.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/011-SciPy-CalculoIntegrales.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/011-SciPy-CalculoIntegrales.ipynb"
+        },
+        {
+            "name": "000-Bienvenido.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/000-Bienvenido.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/000-Bienvenido.ipynb"
+        },
+        {
+            "name": "015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/015-SciPy-EcuacionesDiferencialesOrdinarias.ipynb"
+        },
+        {
+            "name": "001-PythonBasico-JupyterNotebook.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_0/001-PythonBasico-JupyterNotebook.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_0/001-PythonBasico-JupyterNotebook.ipynb"
+        }
+    ],
+    "module_1": [
+        {
+            "name": "11_Defining_Function_in_Python.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/11_Defining_Function_in_Python.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/11_Defining_Function_in_Python.ipynb"
+        },
+        {
+            "name": "06_Array_Operations_with_NumPy.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/06_Array_Operations_with_NumPy.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/06_Array_Operations_with_NumPy.ipynb"
+        },
+        {
+            "name": "13_Step_10.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/13_Step_10.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/13_Step_10.ipynb"
+        },
+        {
+            "name": "09_Step_7.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/09_Step_7.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/09_Step_7.ipynb"
+        },
+        {
+            "name": "19_Odd_Even_Decoupling.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/19_Odd_Even_Decoupling.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/19_Odd_Even_Decoupling.ipynb"
+        },
+        {
+            "name": "10_Step_8.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/10_Step_8.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/10_Step_8.ipynb"
+        },
+        {
+            "name": "02_Step_2.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/02_Step_2.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/02_Step_2.ipynb"
+        },
+        {
+            "name": "07_Step_5.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/07_Step_5.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/07_Step_5.ipynb"
+        },
+        {
+            "name": "08_Step_6.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/08_Step_6.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/08_Step_6.ipynb"
+        },
+        {
+            "name": "15_Step_11.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/15_Step_11.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/15_Step_11.ipynb"
+        },
+        {
+            "name": "14_Optimizing_Loops_with_Numba.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/14_Optimizing_Loops_with_Numba.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/14_Optimizing_Loops_with_Numba.ipynb"
+        },
+        {
+            "name": "03_CFL_Condition.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/03_CFL_Condition.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/03_CFL_Condition.ipynb"
+        },
+        {
+            "name": "18_Burgers_equation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/18_Burgers_equation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/18_Burgers_equation.ipynb"
+        },
+        {
+            "name": "00_Quick_Python_Intro.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/00_Quick_Python_Intro.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/00_Quick_Python_Intro.ipynb"
+        },
+        {
+            "name": "16_Step_12.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/16_Step_12.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/16_Step_12.ipynb"
+        },
+        {
+            "name": "12_Step_9.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/12_Step_9.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/12_Step_9.ipynb"
+        },
+        {
+            "name": "01_Step_1.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/01_Step_1.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/01_Step_1.ipynb"
+        },
+        {
+            "name": "05_Step_4.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/05_Step_4.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/05_Step_4.ipynb"
+        },
+        {
+            "name": "04_Step_3.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_1/04_Step_3.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_1/04_Step_3.ipynb"
+        }
+    ],
+    "module_2": [
+        {
+            "name": "Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Vapor-Liquid_Equilibrium_for_Pure_Components.ipynb"
+        },
+        {
+            "name": "Flameless Cooking.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Flameless%20Cooking.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Flameless%20Cooking.ipynb"
+        },
+        {
+            "name": "Pyrotechnic Design for Airbags.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Pyrotechnic%20Design%20for%20Airbags.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Pyrotechnic%20Design%20for%20Airbags.ipynb"
+        },
+        {
+            "name": "Units_and_Conversions_for_Home_Heating.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Units_and_Conversions_for_Home_Heating.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Units_and_Conversions_for_Home_Heating.ipynb"
+        },
+        {
+            "name": "Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Bubble_and_Dew_Points_for_Binary_Mixtures.ipynb"
+        },
+        {
+            "name": "Ajka Alumina Plant Spill.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Ajka%20Alumina%20Plant%20Spill.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Ajka%20Alumina%20Plant%20Spill.ipynb"
+        },
+        {
+            "name": "Diesel Engine Emissions Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Diesel%20Engine%20Emissions%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Diesel%20Engine%20Emissions%20Control.ipynb"
+        },
+        {
+            "name": "Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Isothermal_Flash_and_the_Rachford-Rice_Equation.ipynb"
+        },
+        {
+            "name": "CO2 Production by Automobiles.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/CO2%20Production%20by%20Automobiles.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/CO2%20Production%20by%20Automobiles.ipynb"
+        },
+        {
+            "name": "Global CO2 Budget.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Global%20CO2%20Budget.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Global%20CO2%20Budget.ipynb"
+        },
+        {
+            "name": "Energy Balances for a Steam Turbine Flowsheet.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Energy%20Balances%20for%20a%20Steam%20Turbine%20Flowsheet.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Energy%20Balances%20for%20a%20Steam%20Turbine%20Flowsheet.ipynb"
+        },
+        {
+            "name": "Ethylene Oxide Flowsheet.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Ethylene%20Oxide%20Flowsheet.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Ethylene%20Oxide%20Flowsheet.ipynb"
+        },
+        {
+            "name": "Adipic Acid Flowsheet.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Adipic%20Acid%20Flowsheet.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Adipic%20Acid%20Flowsheet.ipynb"
+        },
+        {
+            "name": "West Virginia Chemical Spill.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/West%20Virginia%20Chemical%20Spill.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/West%20Virginia%20Chemical%20Spill.ipynb"
+        },
+        {
+            "name": "CSTR.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/CSTR.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/CSTR.ipynb"
+        },
+        {
+            "name": "Dehydrogenation_of_Propane.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Dehydrogenation_of_Propane.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Dehydrogenation_of_Propane.ipynb"
+        },
+        {
+            "name": "Antoine.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Antoine.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Antoine.ipynb"
+        },
+        {
+            "name": "Raoult's Law.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Raoult%27s%20Law.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Raoult%27s%20Law.ipynb"
+        },
+        {
+            "name": "Controller Tuning Rules in Frequency Domain.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Controller%20Tuning%20Rules%20in%20Frequency%20Domain.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Controller%20Tuning%20Rules%20in%20Frequency%20Domain.ipynb"
+        },
+        {
+            "name": "Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Bubble_and_Dew_Points_for_Multicomponent_Mixtures.ipynb"
+        },
+        {
+            "name": "Raoult's_Law_for_Ideal_Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Raoult%27s_Law_for_Ideal_Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Raoult%27s_Law_for_Ideal_Mixtures.ipynb"
+        },
+        {
+            "name": "General Mass Balance on a Single Tank.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/General%20Mass%20Balance%20on%20a%20Single%20Tank.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/General%20Mass%20Balance%20on%20a%20Single%20Tank.ipynb"
+        },
+        {
+            "name": "Lean NOx Trap.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Lean%20NOx%20Trap.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Lean%20NOx%20Trap.ipynb"
+        },
+        {
+            "name": "Second_Order_Models.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Second_Order_Models.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Second_Order_Models.ipynb"
+        },
+        {
+            "name": "Operating_Limits_for_a_Methanol_Lighter.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Operating_Limits_for_a_Methanol_Lighter.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Operating_Limits_for_a_Methanol_Lighter.ipynb"
+        },
+        {
+            "name": "Gases_with_One_Condensable_Component.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Gases_with_One_Condensable_Component.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Gases_with_One_Condensable_Component.ipynb"
+        },
+        {
+            "name": "Solving_Linear_Equations_with_Sympy.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Solving_Linear_Equations_with_Sympy.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Solving_Linear_Equations_with_Sympy.ipynb"
+        },
+        {
+            "name": "Bubble and Dew Point Calculations for Binary Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Bubble%20and%20Dew%20Point%20Calculations%20for%20Binary%20Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Bubble%20and%20Dew%20Point%20Calculations%20for%20Binary%20Mixtures.ipynb"
+        },
+        {
+            "name": "Txy and xy Diagrams for Binary Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Txy%20and%20xy%20Diagrams%20for%20Binary%20Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Txy%20and%20xy%20Diagrams%20for%20Binary%20Mixtures.ipynb"
+        },
+        {
+            "name": "Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Binary_Phase_Diagrams_for_Ideal_Mixtures.ipynb"
+        },
+        {
+            "name": "Torpedo Propulsion.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Torpedo%20Propulsion.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Torpedo%20Propulsion.ipynb"
+        },
+        {
+            "name": "Interacting Tanks.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Interacting%20Tanks.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Interacting%20Tanks.ipynb"
+        },
+        {
+            "name": "Global_CO2_Budget.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Global_CO2_Budget.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Global_CO2_Budget.ipynb"
+        },
+        {
+            "name": "Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Getting_Started_with_Jupyter_Notebooks_and_Python.ipynb"
+        },
+        {
+            "name": "Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Interactive%20PID%20Control%20Tuning%20with%20%20Ziegler-Nichols.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Interactive%20PID%20Control%20Tuning%20with%20%20Ziegler-Nichols.ipynb"
+        },
+        {
+            "name": "Humidity and Psychrometrics.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Humidity%20and%20Psychrometrics.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Humidity%20and%20Psychrometrics.ipynb"
+        },
+        {
+            "name": "Exothermic CSTR.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Exothermic%20CSTR.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Exothermic%20CSTR.ipynb"
+        },
+        {
+            "name": "Units_and_Engineering_Calculations.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Units_and_Engineering_Calculations.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Units_and_Engineering_Calculations.ipynb"
+        },
+        {
+            "name": "Separating_Milk.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Separating_Milk.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Separating_Milk.ipynb"
+        },
+        {
+            "name": "Bubble and Dew Point Calculations for Multicomponent Mixtures.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Bubble%20and%20Dew%20Point%20Calculations%20for%20Multicomponent%20Mixtures.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Bubble%20and%20Dew%20Point%20Calculations%20for%20Multicomponent%20Mixtures.ipynb"
+        },
+        {
+            "name": "Generation_Consumption_Analysis_for_Ammonia_Production.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Generation_Consumption_Analysis_for_Ammonia_Production.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Generation_Consumption_Analysis_for_Ammonia_Production.ipynb"
+        },
+        {
+            "name": "Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Fitting%20a%20Linear%20Model%20to%20the%20Step%20Response%20of%20a%20Gravity%20Drained%20Tank.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Fitting%20a%20Linear%20Model%20to%20the%20Step%20Response%20of%20a%20Gravity%20Drained%20Tank.ipynb"
+        },
+        {
+            "name": "Binary Distillation with McCabe-Thiele.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Binary%20Distillation%20with%20McCabe-Thiele.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Binary%20Distillation%20with%20McCabe-Thiele.ipynb"
+        },
+        {
+            "name": "Getting Started with Transfer Functions.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Getting%20Started%20with%20Transfer%20Functions.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Getting%20Started%20with%20Transfer%20Functions.ipynb"
+        },
+        {
+            "name": "Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Closed-Loop%20Transfer%20Functions%20for%20Car%20Cruise%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Closed-Loop%20Transfer%20Functions%20for%20Car%20Cruise%20Control.ipynb"
+        },
+        {
+            "name": "Vapor-Liquid Equilibrium for a Pure Component.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Vapor-Liquid%20Equilibrium%20for%20a%20Pure%20Component.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Vapor-Liquid%20Equilibrium%20for%20a%20Pure%20Component.ipynb"
+        },
+        {
+            "name": "PVT_Calculations_for_Non-Ideal_Gases.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/PVT_Calculations_for_Non-Ideal_Gases.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/PVT_Calculations_for_Non-Ideal_Gases.ipynb"
+        },
+        {
+            "name": "Balancing Reactions.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Balancing%20Reactions.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Balancing%20Reactions.ipynb"
+        },
+        {
+            "name": "Adiabatic Flame Temperature.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Adiabatic%20Flame%20Temperature.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Adiabatic%20Flame%20Temperature.ipynb"
+        },
+        {
+            "name": "Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Hydrogen_Storage_for_a_Fuel_Cell_Vehicle.ipynb"
+        },
+        {
+            "name": "Creating Bode Plots.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Creating%20Bode%20Plots.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Creating%20Bode%20Plots.ipynb"
+        },
+        {
+            "name": "Units and Conversions - Home Heating Example.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Units%20and%20Conversions%20-%20Home%20Heating%20Example.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Units%20and%20Conversions%20-%20Home%20Heating%20Example.ipynb"
+        },
+        {
+            "name": "Additional Examples of the Python Control Systems Library.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Additional%20Examples%20of%20the%20Python%20Control%20Systems%20Library.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Additional%20Examples%20of%20the%20Python%20Control%20Systems%20Library.ipynb"
+        },
+        {
+            "name": "Unsteady-State Material Balances.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Unsteady-State%20Material%20Balances.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Unsteady-State%20Material%20Balances.ipynb"
+        },
+        {
+            "name": "Steam Reforming of Methane.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_2/Steam%20Reforming%20of%20Methane.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_2/Steam%20Reforming%20of%20Methane.ipynb"
+        }
+    ],
+    "module_3": [
+        {
+            "name": "Step_Test_Experiment.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Step_Test_Experiment.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Step_Test_Experiment.ipynb"
+        },
+        {
+            "name": "3_Modeling_Part_2.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/3_Modeling_Part_2.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/3_Modeling_Part_2.ipynb"
+        },
+        {
+            "name": "Transient Heat Transfer in Various Geometries.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Transient%20Heat%20Transfer%20in%20Various%20Geometries.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Transient%20Heat%20Transfer%20in%20Various%20Geometries.ipynb"
+        },
+        {
+            "name": "example_3.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/example_3.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/example_3.ipynb"
+        },
+        {
+            "name": "1_Empirical_Methods_for_Feedback_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/1_Empirical_Methods_for_Feedback_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/1_Empirical_Methods_for_Feedback_Control.ipynb"
+        },
+        {
+            "name": "Process_Control_Outline.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Process_Control_Outline.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Process_Control_Outline.ipynb"
+        },
+        {
+            "name": "PID_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/PID_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/PID_Control.ipynb"
+        },
+        {
+            "name": "First_Order_System_in_Pyomo.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/First_Order_System_in_Pyomo.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/First_Order_System_in_Pyomo.ipynb"
+        },
+        {
+            "name": "Control with Realtime Simpy.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Control%20with%20Realtime%20Simpy.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Control%20with%20Realtime%20Simpy.ipynb"
+        },
+        {
+            "name": "Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Scheduling_Multipurpose_Batch_Processes_using_State-Task_Networks.ipynb"
+        },
+        {
+            "name": "A Modular Approach to Simulation using Python Generators.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/A%20Modular%20Approach%20to%20Simulation%20using%20Python%20Generators.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/A%20Modular%20Approach%20to%20Simulation%20using%20Python%20Generators.ipynb"
+        },
+        {
+            "name": "Animation in Jupyter Notebooks.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Animation%20in%20Jupyter%20Notebooks.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Animation%20in%20Jupyter%20Notebooks.ipynb"
+        },
+        {
+            "name": "Getting_Started_with_the_Temperature_Control_Laboratory.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Getting_Started_with_the_Temperature_Control_Laboratory.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Getting_Started_with_the_Temperature_Control_Laboratory.ipynb"
+        },
+        {
+            "name": "TCLab Simulation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/TCLab%20Simulation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/TCLab%20Simulation.ipynb"
+        },
+        {
+            "name": "NCAA_Football_Field.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/NCAA_Football_Field.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/NCAA_Football_Field.ipynb"
+        },
+        {
+            "name": "Cascade Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Cascade%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Cascade%20Control.ipynb"
+        },
+        {
+            "name": "Realtime Plotting.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Realtime%20Plotting.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Realtime%20Plotting.ipynb"
+        },
+        {
+            "name": "Manometer Models and Dynamics.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Manometer%20Models%20and%20Dynamics.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Manometer%20Models%20and%20Dynamics.ipynb"
+        },
+        {
+            "name": "2_Coding_Controllers_with_Python_Generators.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/2_Coding_Controllers_with_Python_Generators.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/2_Coding_Controllers_with_Python_Generators.ipynb"
+        },
+        {
+            "name": "One Compartment Pharmacokinetics.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/One%20Compartment%20Pharmacokinetics.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/One%20Compartment%20Pharmacokinetics.ipynb"
+        },
+        {
+            "name": "4_PID_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/4_PID_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/4_PID_Control.ipynb"
+        },
+        {
+            "name": "3_Modeling_Part_1.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/3_Modeling_Part_1.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/3_Modeling_Part_1.ipynb"
+        },
+        {
+            "name": "Implementing PID Control in Nonlinear Simulations.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Implementing%20PID%20Control%20in%20Nonlinear%20Simulations.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Implementing%20PID%20Control%20in%20Nonlinear%20Simulations.ipynb"
+        },
+        {
+            "name": "MPC Introduction.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/MPC%20Introduction.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/MPC%20Introduction.ipynb"
+        },
+        {
+            "name": "Exothermic_CSTR_Pyomo.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Exothermic_CSTR_Pyomo.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Exothermic_CSTR_Pyomo.ipynb"
+        },
+        {
+            "name": "Python_Tutorial_1_2018.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Python_Tutorial_1_2018.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Python_Tutorial_1_2018.ipynb"
+        },
+        {
+            "name": "0_TCLab_Overview_add_example.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/0_TCLab_Overview_add_example.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/0_TCLab_Overview_add_example.ipynb"
+        },
+        {
+            "name": "Lab Assignment 4 - PID Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Lab%20Assignment%204%20-%20PID%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Lab%20Assignment%204%20-%20PID%20Control.ipynb"
+        },
+        {
+            "name": "Machine Bottleneck (Pyomo).ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Machine%20Bottleneck%20%28Pyomo%29.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Machine%20Bottleneck%20%28Pyomo%29.ipynb"
+        },
+        {
+            "name": "Controller Tuning Rules in Frequency Domain.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Controller%20Tuning%20Rules%20in%20Frequency%20Domain.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Controller%20Tuning%20Rules%20in%20Frequency%20Domain.ipynb"
+        },
+        {
+            "name": "ProcessControl.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/ProcessControl.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/ProcessControl.ipynb"
+        },
+        {
+            "name": "Gravity Drained Tank.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Gravity%20Drained%20Tank.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Gravity%20Drained%20Tank.ipynb"
+        },
+        {
+            "name": "Blending Tank Simulation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Blending%20Tank%20Simulation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Blending%20Tank%20Simulation.ipynb"
+        },
+        {
+            "name": "Linear Approximation of a Multivariable Model using Taylor Series.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Linear%20Approximation%20of%20a%20Multivariable%20Model%20using%20Taylor%20Series.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Linear%20Approximation%20of%20a%20Multivariable%20Model%20using%20Taylor%20Series.ipynb"
+        },
+        {
+            "name": "TCLab PID.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/TCLab%20PID.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/TCLab%20PID.ipynb"
+        },
+        {
+            "name": "Lab Assignment 3 - Empirical Model Fitting.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Lab%20Assignment%203%20-%20Empirical%20Model%20Fitting.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Lab%20Assignment%203%20-%20Empirical%20Model%20Fitting.ipynb"
+        },
+        {
+            "name": "Second_Order_Models.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Second_Order_Models.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Second_Order_Models.ipynb"
+        },
+        {
+            "name": "Path_Planning_for_a_Simple_Car.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Path_Planning_for_a_Simple_Car.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Path_Planning_for_a_Simple_Car.ipynb"
+        },
+        {
+            "name": "Zero Order Hold and Interpolation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Zero%20Order%20Hold%20and%20Interpolation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Zero%20Order%20Hold%20and%20Interpolation.ipynb"
+        },
+        {
+            "name": "example_1.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/example_1.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/example_1.ipynb"
+        },
+        {
+            "name": "Python_Tutorial_3_2018.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Python_Tutorial_3_2018.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Python_Tutorial_3_2018.ipynb"
+        },
+        {
+            "name": "Python_Tutorial_2_2018.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Python_Tutorial_2_2018.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Python_Tutorial_2_2018.ipynb"
+        },
+        {
+            "name": "Baroreflex as a Linear Control System.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Baroreflex%20as%20a%20Linear%20Control%20System.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Baroreflex%20as%20a%20Linear%20Control%20System.ipynb"
+        },
+        {
+            "name": "3_Modeling_Part_3.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/3_Modeling_Part_3.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/3_Modeling_Part_3.ipynb"
+        },
+        {
+            "name": "Interacting Tanks.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Interacting%20Tanks.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Interacting%20Tanks.ipynb"
+        },
+        {
+            "name": "3_Modeling_Part_4.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/3_Modeling_Part_4.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/3_Modeling_Part_4.ipynb"
+        },
+        {
+            "name": "Interactive PID Control Tuning with  Ziegler-Nichols.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Interactive%20PID%20Control%20Tuning%20with%20%20Ziegler-Nichols.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Interactive%20PID%20Control%20Tuning%20with%20%20Ziegler-Nichols.ipynb"
+        },
+        {
+            "name": "Exothermic CSTR.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Exothermic%20CSTR.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Exothermic%20CSTR.ipynb"
+        },
+        {
+            "name": "Fitting First-Order plus Time-Delay (FOPTD) to Step Response Data.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Fitting%20First-Order%20plus%20Time-Delay%20%28FOPTD%29%20to%20Step%20Response%20Data.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Fitting%20First-Order%20plus%20Time-Delay%20%28FOPTD%29%20to%20Step%20Response%20Data.ipynb"
+        },
+        {
+            "name": "Fitting a Linear Model to the Step Response of a Gravity Drained Tank.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Fitting%20a%20Linear%20Model%20to%20the%20Step%20Response%20of%20a%20Gravity%20Drained%20Tank.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Fitting%20a%20Linear%20Model%20to%20the%20Step%20Response%20of%20a%20Gravity%20Drained%20Tank.ipynb"
+        },
+        {
+            "name": "Getting Started with Python.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Getting%20Started%20with%20Python.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Getting%20Started%20with%20Python.ipynb"
+        },
+        {
+            "name": "Introduction to Python - A Python Tutorial.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Introduction%20to%20Python%20-%20A%20Python%20Tutorial.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Introduction%20to%20Python%20-%20A%20Python%20Tutorial.ipynb"
+        },
+        {
+            "name": "Step_Test_Model.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Step_Test_Model.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Step_Test_Model.ipynb"
+        },
+        {
+            "name": "Getting Started with Transfer Functions.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Getting%20Started%20with%20Transfer%20Functions.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Getting%20Started%20with%20Transfer%20Functions.ipynb"
+        },
+        {
+            "name": "Relay_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Relay_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Relay_Control.ipynb"
+        },
+        {
+            "name": "Linear Approximation of a Process Model using Taylor Series.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Linear%20Approximation%20of%20a%20Process%20Model%20using%20Taylor%20Series.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Linear%20Approximation%20of%20a%20Process%20Model%20using%20Taylor%20Series.ipynb"
+        },
+        {
+            "name": "Continuous_Product_Blending.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Continuous_Product_Blending.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Continuous_Product_Blending.ipynb"
+        },
+        {
+            "name": "GUI Experiments.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/GUI%20Experiments.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/GUI%20Experiments.ipynb"
+        },
+        {
+            "name": "State-Task_Networks.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/State-Task_Networks.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/State-Task_Networks.ipynb"
+        },
+        {
+            "name": "Closed-Loop Transfer Functions for Car Cruise Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Closed-Loop%20Transfer%20Functions%20for%20Car%20Cruise%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Closed-Loop%20Transfer%20Functions%20for%20Car%20Cruise%20Control.ipynb"
+        },
+        {
+            "name": "Experiments.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Experiments.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Experiments.ipynb"
+        },
+        {
+            "name": "Fed Batch Bioreactor.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Fed%20Batch%20Bioreactor.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Fed%20Batch%20Bioreactor.ipynb"
+        },
+        {
+            "name": "Lab Assignment 2.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Lab%20Assignment%202.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Lab%20Assignment%202.ipynb"
+        },
+        {
+            "name": "Programming Controllers.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Programming%20Controllers.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Programming%20Controllers.ipynb"
+        },
+        {
+            "name": "Creating Bode Plots.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Creating%20Bode%20Plots.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Creating%20Bode%20Plots.ipynb"
+        },
+        {
+            "name": "example_2.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/example_2.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/example_2.ipynb"
+        },
+        {
+            "name": "Untitled.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_3/Untitled.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_3/Untitled.ipynb"
+        }
+    ],
+    "module_4": [
+        {
+            "name": "Lorenz Equations.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Lorenz%20Equations.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Lorenz%20Equations.ipynb"
+        },
+        {
+            "name": "Dynamic Visualizations with Matplotlib.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Dynamic%20Visualizations%20with%20Matplotlib.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Dynamic%20Visualizations%20with%20Matplotlib.ipynb"
+        },
+        {
+            "name": "Municipal Wastewater Aeration.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Municipal%20Wastewater%20Aeration.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Municipal%20Wastewater%20Aeration.ipynb"
+        },
+        {
+            "name": "Audio Processing.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Audio%20Processing.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Audio%20Processing.ipynb"
+        },
+        {
+            "name": "Getting Started with Chocolate Blending.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Getting%20Started%20with%20Chocolate%20Blending.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Getting%20Started%20with%20Chocolate%20Blending.ipynb"
+        },
+        {
+            "name": "Getting Started with Spanky's.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Getting%20Started%20with%20Spanky%27s.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Getting%20Started%20with%20Spanky%27s.ipynb"
+        },
+        {
+            "name": "Autoregulation and Baroreflex Regulation in Mean Arterial Blood Pressure Maintenance.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Autoregulation%20and%20Baroreflex%20Regulation%20in%20Mean%20Arterial%20Blood%20Pressure%20Maintenance.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Autoregulation%20and%20Baroreflex%20Regulation%20in%20Mean%20Arterial%20Blood%20Pressure%20Maintenance.ipynb"
+        },
+        {
+            "name": "Getting Started with Chocolate.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Getting%20Started%20with%20Chocolate.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Getting%20Started%20with%20Chocolate.ipynb"
+        },
+        {
+            "name": "Insulin Control for Treating Type I Diabetes.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Insulin%20Control%20for%20Treating%20Type%20I%20Diabetes.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Insulin%20Control%20for%20Treating%20Type%20I%20Diabetes.ipynb"
+        },
+        {
+            "name": "Closed Loop Anesthetic Delivery (CLAD) System.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Closed%20Loop%20Anesthetic%20Delivery%20%28CLAD%29%20System.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Closed%20Loop%20Anesthetic%20Delivery%20%28CLAD%29%20System.ipynb"
+        },
+        {
+            "name": "Temperature Profile Optimization of the Brewing Process.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Temperature%20Profile%20Optimization%20of%20the%20Brewing%20Process.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Temperature%20Profile%20Optimization%20of%20the%20Brewing%20Process.ipynb"
+        },
+        {
+            "name": "Jacobians.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Jacobians.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Jacobians.ipynb"
+        },
+        {
+            "name": "Solving Linear Equations.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Solving%20Linear%20Equations.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Solving%20Linear%20Equations.ipynb"
+        },
+        {
+            "name": "Getting Started with Beer.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Getting%20Started%20with%20Beer.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Getting%20Started%20with%20Beer.ipynb"
+        },
+        {
+            "name": "Chocolate Blending Final Project _Breier, Flavin, Mallette, Mikes_.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Chocolate%20Blending%20Final%20Project%20_Breier%2C%20Flavin%2C%20Mallette%2C%20Mikes_.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Chocolate%20Blending%20Final%20Project%20_Breier%2C%20Flavin%2C%20Mallette%2C%20Mikes_.ipynb"
+        },
+        {
+            "name": "Experiments with Audio Processing.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Experiments%20with%20Audio%20Processing.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Experiments%20with%20Audio%20Processing.ipynb"
+        },
+        {
+            "name": "Dynamics of First Order Linear Systems.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Dynamics%20of%20First%20Order%20Linear%20Systems.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Dynamics%20of%20First%20Order%20Linear%20Systems.ipynb"
+        },
+        {
+            "name": "MPC%2C+PID%2C+Two+Tank+42.0.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/MPC%252C%2BPID%252C%2BTwo%2BTank%2B42.0.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/MPC%252C%2BPID%252C%2BTwo%2BTank%2B42.0.ipynb"
+        },
+        {
+            "name": "Widgets Example 2.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Widgets%20Example%202.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Widgets%20Example%202.ipynb"
+        },
+        {
+            "name": "Widgets Example.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Widgets%20Example.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Widgets%20Example.ipynb"
+        },
+        {
+            "name": "T cell therapy of Chronic Myelogenous Leukemia.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/T%20cell%20therapy%20of%20Chronic%20Myelogenous%20Leukemia.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/T%20cell%20therapy%20of%20Chronic%20Myelogenous%20Leukemia.ipynb"
+        },
+        {
+            "name": "MPC, PID, Two Tank 42.0.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/MPC%2C%20PID%2C%20Two%20Tank%2042.0.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/MPC%2C%20PID%2C%20Two%20Tank%2042.0.ipynb"
+        },
+        {
+            "name": "Sailboat Mast Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Sailboat%20Mast%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Sailboat%20Mast%20Control.ipynb"
+        },
+        {
+            "name": "Control of a Reverse Osmosis Desalination Process.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Control%20of%20a%20Reverse%20Osmosis%20Desalination%20Process.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Control%20of%20a%20Reverse%20Osmosis%20Desalination%20Process.ipynb"
+        },
+        {
+            "name": "Wind Turbine Collective Blade Pitch Angle Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Wind%20Turbine%20Collective%20Blade%20Pitch%20Angle%20Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Wind%20Turbine%20Collective%20Blade%20Pitch%20Angle%20Control.ipynb"
+        },
+        {
+            "name": "Getting Started with Python Control Systems Library.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Getting%20Started%20with%20Python%20Control%20Systems%20Library.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Getting%20Started%20with%20Python%20Control%20Systems%20Library.ipynb"
+        },
+        {
+            "name": "Formatting Mathematics for Jupyter.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Formatting%20Mathematics%20for%20Jupyter.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Formatting%20Mathematics%20for%20Jupyter.ipynb"
+        },
+        {
+            "name": "Mixed Paradigm Simulation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Mixed%20Paradigm%20Simulation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Mixed%20Paradigm%20Simulation.ipynb"
+        },
+        {
+            "name": "Getting Started with Engineering Calculations.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Getting%20Started%20with%20Engineering%20Calculations.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Getting%20Started%20with%20Engineering%20Calculations.ipynb"
+        },
+        {
+            "name": "Plotly Example.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Plotly%20Example.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Plotly%20Example.ipynb"
+        },
+        {
+            "name": "Additional Examples of the Python Control Systems Library.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Additional%20Examples%20of%20the%20Python%20Control%20Systems%20Library.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Additional%20Examples%20of%20the%20Python%20Control%20Systems%20Library.ipynb"
+        },
+        {
+            "name": "Hare and Lynx Population Dynamics.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Hare%20and%20Lynx%20Population%20Dynamics.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Hare%20and%20Lynx%20Population%20Dynamics.ipynb"
+        },
+        {
+            "name": "Untitled.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_4/Untitled.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_4/Untitled.ipynb"
+        }
+    ],
+    "module_5": [
+        {
+            "name": "Problem_19_04.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Problem_19_04.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Problem_19_04.ipynb"
+        },
+        {
+            "name": "02_Linear_Production_Model_with_Constraints.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/02_Linear_Production_Model_with_Constraints.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/02_Linear_Production_Model_with_Constraints.ipynb"
+        },
+        {
+            "name": "Untitled1.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Untitled1.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Untitled1.ipynb"
+        },
+        {
+            "name": "Formaldehyde_Process.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Formaldehyde_Process.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Formaldehyde_Process.ipynb"
+        },
+        {
+            "name": "Problem_19_03.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Problem_19_03.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Problem_19_03.ipynb"
+        },
+        {
+            "name": "06_Linear_Blending_Problem.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/06_Linear_Blending_Problem.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/06_Linear_Blending_Problem.ipynb"
+        },
+        {
+            "name": "Problem_19_05.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Problem_19_05.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Problem_19_05.ipynb"
+        },
+        {
+            "name": "03_Linear_Programming.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/03_Linear_Programming.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/03_Linear_Programming.ipynb"
+        },
+        {
+            "name": "DAE.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/DAE.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/DAE.ipynb"
+        },
+        {
+            "name": "05_Pyomo_Examples.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/05_Pyomo_Examples.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/05_Pyomo_Examples.ipynb"
+        },
+        {
+            "name": "Problem_19_01.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Problem_19_01.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Problem_19_01.ipynb"
+        },
+        {
+            "name": "04_Getting_Started_with_Pyomo.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/04_Getting_Started_with_Pyomo.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/04_Getting_Started_with_Pyomo.ipynb"
+        },
+        {
+            "name": "07_Mixture_Design_Cold_Weather_Fuel.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/07_Mixture_Design_Cold_Weather_Fuel.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/07_Mixture_Design_Cold_Weather_Fuel.ipynb"
+        },
+        {
+            "name": "08_Gasoline_Blending.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/08_Gasoline_Blending.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/08_Gasoline_Blending.ipynb"
+        },
+        {
+            "name": "01_Unconstrained_Scalar_Optimization.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/01_Unconstrained_Scalar_Optimization.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/01_Unconstrained_Scalar_Optimization.ipynb"
+        },
+        {
+            "name": "Problem_19_06.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Problem_19_06.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Problem_19_06.ipynb"
+        },
+        {
+            "name": "Untitled.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_5/Untitled.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_5/Untitled.ipynb"
+        }
+    ],
+    "module_6": [
+        {
+            "name": "10_PID_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/10_PID_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/10_PID_Control.ipynb"
+        },
+        {
+            "name": "06_Realizable_PID_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/06_Realizable_PID_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/06_Realizable_PID_Control.ipynb"
+        },
+        {
+            "name": "03_PID_Control_with_Setpoint_Weighting.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/03_PID_Control_with_Setpoint_Weighting.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/03_PID_Control_with_Setpoint_Weighting.ipynb"
+        },
+        {
+            "name": "A Modular Approach to Simulation using Python Generators.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/A%20Modular%20Approach%20to%20Simulation%20using%20Python%20Generators.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/A%20Modular%20Approach%20to%20Simulation%20using%20Python%20Generators.ipynb"
+        },
+        {
+            "name": "04_PID_Control_with_Bumpless_Transfer.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/04_PID_Control_with_Bumpless_Transfer.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/04_PID_Control_with_Bumpless_Transfer.ipynb"
+        },
+        {
+            "name": "07_PID_Controller_Tuning.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/07_PID_Controller_Tuning.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/07_PID_Controller_Tuning.ipynb"
+        },
+        {
+            "name": "05_PID_Control_with_Anti-Reset-Windup.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/05_PID_Control_with_Anti-Reset-Windup.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/05_PID_Control_with_Anti-Reset-Windup.ipynb"
+        },
+        {
+            "name": "01_PID_Control.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/01_PID_Control.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/01_PID_Control.ipynb"
+        },
+        {
+            "name": "02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_6/02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_6/02_Implementing_PID_Control_with_Python_Yield_Statement.ipynb"
+        }
+    ],
+    "module_7": [
+        {
+            "name": "PyMata Implementation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/PyMata%20Implementation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/PyMata%20Implementation.ipynb"
+        },
+        {
+            "name": "10_Interactive_and_Nonblocking_Operation.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/10_Interactive_and_Nonblocking_Operation.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/10_Interactive_and_Nonblocking_Operation.ipynb"
+        },
+        {
+            "name": "02_Accessing_the_Temperature_Control_Laboratory.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/02_Accessing_the_Temperature_Control_Laboratory.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/02_Accessing_the_Temperature_Control_Laboratory.ipynb"
+        },
+        {
+            "name": "05_TCLab_Historian.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/05_TCLab_Historian.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/05_TCLab_Historian.ipynb"
+        },
+        {
+            "name": "04_Emulation_of_TCLab_for_Offline_Use.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/04_Emulation_of_TCLab_for_Offline_Use.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/04_Emulation_of_TCLab_for_Offline_Use.ipynb"
+        },
+        {
+            "name": "03_Synchronizing_with_Real_Time.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/03_Synchronizing_with_Real_Time.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/03_Synchronizing_with_Real_Time.ipynb"
+        },
+        {
+            "name": "01_TCLab_Overview.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/01_TCLab_Overview.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/01_TCLab_Overview.ipynb"
+        },
+        {
+            "name": "07_NotebookUI.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/07_NotebookUI.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/07_NotebookUI.ipynb"
+        },
+        {
+            "name": "08_Experiment_Class.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/08_Experiment_Class.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/08_Experiment_Class.ipynb"
+        },
+        {
+            "name": "06_TCLab_Plotter.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/06_TCLab_Plotter.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/06_TCLab_Plotter.ipynb"
+        },
+        {
+            "name": "Development Notes.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/Development%20Notes.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/Development%20Notes.ipynb"
+        },
+        {
+            "name": "09_Labtime_Class.ipynb",
+            "url_app": "https://jupyternbs.herokuapp.com/notebooks/engineering-basic/module_7/09_Labtime_Class.ipynb",
+            "url_github": "https://raw.githubusercontent.com/alanmatzumiya/engineering-basic/main/module_7/09_Labtime_Class.ipynb"
+        }
+    ]
+}
